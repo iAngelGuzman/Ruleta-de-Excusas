@@ -1,1 +1,1 @@
-# Ruleta-de-Escusas
+# Ruleta-de-Excusas
